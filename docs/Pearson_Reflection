@@ -1,0 +1,5 @@
+1. I wrote a large majority of the code, with Taiwo following along and making sure I didn't miss any requirements.
+2. The most challenging issue we ran into was figuring out how to write the statuses to an external file. It required extra online research to figure out.
+3. Running the program allowed us to find a segmentation fault, allowing us to determine that the file wasn't being opened properly.
+4. My understanding of the debugging process allowed me to understand quickly where my mistakes were and how to fix them.
+5. I would probably have made the code easier to understand in the event that another developer wanted to use or modify it.
